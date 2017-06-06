@@ -1,0 +1,13 @@
+<!-- 白小明：HTML分节 -->
+
+<snippet>
+<content><![CDATA[
+<!-- ${1:elem name} start -->
+${2:content}
+<!-- ${1:elem name} end -->
+]]></content>
+
+<tabTrigger>白小明：HTML分节</tabTrigger>
+<description>白小明：HTML分节</description>
+<scope>text.html.basic</scope>
+</snippet>

@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"1Self",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Can I Use",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"CSS Format",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GotoDocumentation",
+		"HTML5",
+		"IMESupport",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
+		"jQuery",
+		"JsFormat",
+		"Markdown Preview",
+		"Material Theme",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Soda",
+		"Vue Syntax Highlight"
+	]
+}

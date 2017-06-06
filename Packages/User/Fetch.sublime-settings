@@ -1,0 +1,11 @@
+{
+	"files":
+	{
+		"jquery-3.2.1": "https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js",
+		"vue-1.0.26": "https://cdn.bootcss.com/vue/1.0.26/vue.min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
