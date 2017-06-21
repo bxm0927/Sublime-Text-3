@@ -1,0 +1,19 @@
+<!-- Markdown头信息 -->
+
+<snippet>
+<content><![CDATA[
+---
+author: 白小明
+time：2017年6月9日
+title: 标题
+tags: [HTML, CSS, JS]
+---
+
+<!-- more -->
+
+]]></content>
+
+<tabTrigger>md1</tabTrigger>
+<description>md1</description>
+<scope>text.html.markdown</scope>
+</snippet>

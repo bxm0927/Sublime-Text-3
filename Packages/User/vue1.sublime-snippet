@@ -1,0 +1,37 @@
+<!-- vue模板 -->
+
+<snippet>
+<content><![CDATA[
+<template>
+  <div class="${1:hello}">${1:hello}</div>
+</template>
+
+<script>
+  export default {
+    props: {},
+    watch: {},
+    events: {},
+    filters: {},
+    methods: {},
+    computed: {},
+    components: {},
+    data () {
+      return {}
+    },
+    mounted () {}
+    created () {}
+  }
+</script>
+
+<style lang="sass">
+  .${1:hello}
+</style>
+]]></content>
+
+<tabTrigger>vue1</tabTrigger>
+<description>vue1</description>
+<scope></scope>
+</snippet>
+
+
+

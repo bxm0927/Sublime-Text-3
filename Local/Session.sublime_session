@@ -1,14 +1,20 @@
 {
 	"folder_history":
 	[
-		"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作",
+		"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell",
 		"/D/GitHub/Hexo/bxm0927.github.io",
+		"/C/Users/bxm09/Desktop/WebDemo",
+		"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src",
+		"/E/Web/Project/同学会/同学会1.0",
+		"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp",
+		"/C/Users/bxm09/Desktop/elelmeApp-ALL",
+		"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc",
+		"/E/Web/wamp64/www/bank",
+		"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作",
 		"/E/Web/Project/WebDemo",
 		"/E/Web/适配文件/【HTML5 - Template】",
 		"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project",
 		"/E/HIS/syt_copy",
-		"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp",
-		"/C/Users/bxm09/Desktop/elelmeApp-ALL",
 		"/C/Users/bxm09/Desktop/elelmeApp",
 		"/E/Web/响应式布局/licaibao-responsive",
 		"/D/GitHub/Hexo",
@@ -30,7 +36,6 @@
 		"/E/Web/网页常用效果/评论/评论（类似人人网、QQ空间）",
 		"/E/Web/响应式布局/responsive-imooc",
 		"/E/Web/响应式布局/响应式开发一招致胜（理财宝） - imooc",
-		"/C/Users/bxm09/Desktop/WebDemo",
 		"/E/Web/框架/Bootstrap_V3",
 		"/E/Web/框架/Bootstrap_V4",
 		"/E/Web/框架/Bootstrap",
@@ -86,11 +91,11 @@
 		"/E/Front End/【实战项目】/HTML5 localStorage/HTML5 localStorage 便签"
 	],
 	"last_version": 3126,
-	"last_window_id": 27,
+	"last_window_id": 29,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 587.0,
+		"new_window_height": 784.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -98,16 +103,188 @@
 				"selected_items":
 				[
 					[
+						"sty",
+						"style\tTag"
+					],
+					[
+						"Nu",
+						"Number.MAX_VALUE\tNumber"
+					],
+					[
+						"com",
+						"components"
+					],
+					[
+						"common",
+						"common/"
+					],
+					[
+						"Date",
+						"new Date()\tDate"
+					],
+					[
+						"sele",
+						"selectType"
+					],
+					[
+						"rati",
+						"rating\t(food.vue)"
+					],
+					[
+						"gree",
+						"green"
+					],
+					[
+						"rgb",
+						"rgb()"
+					],
+					[
+						"blo",
+						"block\t(food.vue)"
+					],
+					[
+						"rin",
+						"ratings"
+					],
+					[
+						"fi",
+						"fixed"
+					],
+					[
+						"cons",
+						"console.log\t(goods.vue)"
+					],
+					[
+						"box-s",
+						"box-sizing"
+					],
+					[
+						"c",
+						"cl\tclass"
+					],
+					[
+						"p",
+						"pu\tpublic"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"scr",
+						"scroll\t(goods.vue)"
+					],
+					[
+						"borderb",
+						"border-box"
+					],
+					[
+						"boxs",
+						"box-sizing"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"ball",
+						"balls"
+					],
+					[
+						"v",
+						"vue\tVue instance"
+					],
+					[
+						"trans",
+						"transition"
+					],
+					[
+						"push",
+						"push(${0:element1})\tArray"
+					],
+					[
+						"conso",
+						"console.log"
+					],
+					[
+						"toa",
+						"totalCount"
+					],
+					[
+						"to",
+						"totalCount"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"borb",
+						"border-box"
+					],
+					[
+						"borr",
+						"border-radius"
+					],
+					[
+						"dee",
+						"deepskyblue"
+					],
+					[
+						"foods",
+						"foodsScroll"
+					],
+					[
+						"hei",
+						"height1"
+					],
+					[
+						"heig",
+						"height"
+					],
+					[
+						"Mathr",
+						"Math.round($0)\tMath"
+					],
+					[
+						"ref",
+						"refs"
+					],
+					[
+						"wid",
+						"width\tAttr"
+					],
+					[
+						"foo",
+						"foods\t(data.json)"
+					],
+					[
+						"tabl",
+						"table-cell"
+					],
+					[
+						"dec",
+						"decrease_2@2x.png\tw:32 h:32"
+					],
+					[
+						"tab",
+						"table"
+					],
+					[
+						"deep",
+						"deepskyblue"
+					],
+					[
 						"ti",
 						"timg.jpg\tw:1024 h:745"
 					],
 					[
 						"tran",
 						"transition"
-					],
-					[
-						"sty",
-						"style\tAttr"
 					],
 					[
 						"blur",
@@ -122,10 +299,6 @@
 						"star36_half@2x.png\tw:30 h:29"
 					],
 					[
-						"com",
-						"components\t(main.js)"
-					],
-					[
 						"CLS_O",
 						"CLS_OFF"
 					],
@@ -136,10 +309,6 @@
 					[
 						"for",
 						"for\tfor (…) {…}"
-					],
-					[
-						"scr",
-						"scrollTop\t.scrollTop()"
 					],
 					[
 						"img",
@@ -156,10 +325,6 @@
 					[
 						"url",
 						"url()"
-					],
-					[
-						"gree",
-						"greenyellow"
 					],
 					[
 						"bacc",
@@ -188,10 +353,6 @@
 					[
 						"dis",
 						"discount_1@2x.png\tw:24 h:24"
-					],
-					[
-						"dec",
-						"decrease_1@2x.png\tw:24 h:24"
 					],
 					[
 						"no-",
@@ -326,20 +487,8 @@
 						"console.log('$0');"
 					],
 					[
-						"cons",
-						"console.log('$0');"
-					],
-					[
 						"ad",
 						"ad001-l.png\tw:1600 h:450"
-					],
-					[
-						"max",
-						"max-width"
-					],
-					[
-						"fi",
-						"filter"
 					],
 					[
 						"lo",
@@ -350,16 +499,8 @@
 						"img/"
 					],
 					[
-						"cl",
-						"clearfix"
-					],
-					[
 						"fontst",
 						"font-style"
-					],
-					[
-						"to",
-						"tov-e\ttext-overflow: ellipsis;"
 					],
 					[
 						"fots",
@@ -442,10 +583,6 @@
 						"inputs\tinput - submit"
 					],
 					[
-						"wid",
-						"width"
-					],
-					[
 						"scrip",
 						"script\tTag"
 					],
@@ -476,151 +613,71 @@
 					[
 						"met",
 						"method\tAttr"
-					],
-					[
-						"var",
-						"var_dump"
-					],
-					[
-						"GLO",
-						"global"
-					],
-					[
-						"glo",
-						"GLOBALS"
-					],
-					[
-						"setti",
-						"setInterval(${0:func}, delay)\tWindow"
-					],
-					[
-						"file",
-						"filename"
-					],
-					[
-						"is_",
-						"is_null"
-					],
-					[
-						"image_type",
-						"image_type_to_mime_type"
-					],
-					[
-						"imaged",
-						"imagedestroy"
-					],
-					[
-						"imagecopy",
-						"imagecopyresampled"
-					],
-					[
-						"imagectc",
-						"imagecreatetruecolor"
-					],
-					[
-						"imagecr",
-						"imagecreatefromjpeg"
-					],
-					[
-						"up",
-						"upload.func.php"
-					],
-					[
-						"is_s",
-						"is_string"
-					],
-					[
-						"tem",
-						"tmp_name"
-					],
-					[
-						"te",
-						"text\t(images.func.php)"
-					],
-					[
-						"hea",
-						"header\t(images.func.php)"
-					],
-					[
-						"heaer",
-						"header(\"content-type\t(images.func.php)"
-					],
-					[
-						"show",
-						"showPage($page\t(page.func.php)"
-					],
-					[
-						"els",
-						"else\t(index.php)"
-					],
-					[
-						"row",
-						"rows\t(listAdmin.php)"
-					],
-					[
-						"do",
-						"doAdminAction.php"
-					],
-					[
-						"requ",
-						"require_once\t(index.php)"
-					],
-					[
-						"lis",
-						"listAdmin.php\t(index.php)"
-					],
-					[
-						"inputs",
-						"inputs\tinput - submit"
-					],
-					[
-						"set",
-						"setcookie"
-					],
-					[
-						"_",
-						"_POST"
-					],
-					[
-						"he",
-						"header\t<header>"
-					],
-					[
-						"session_d",
-						"session_destroy"
-					],
-					[
-						"sess",
-						"session_name"
-					],
-					[
-						"header",
-						"header"
-					],
-					[
-						"mysql_num",
-						"mysql_num_rows"
-					],
-					[
-						"fu",
-						"fun\tfunction …"
-					],
-					[
-						"mysql_in",
-						"mysql_insert_id"
 					]
 				]
 			},
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "sscss",
+				"last_filter": "ins",
 				"selected_items":
 				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"vue",
+						"Snippet: vue1"
+					],
+					[
+						"ssht",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sss",
+						"Set Syntax: Sass"
+					],
+					[
+						"REM",
+						"Package Control: Remove Package"
+					],
+					[
+						"vue1",
+						"Snippet: vue1"
+					],
+					[
+						"mdpr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssp",
+						"Set Syntax: PHP"
+					],
 					[
 						"sscss",
 						"Set Syntax: CSS"
@@ -636,10 +693,6 @@
 					[
 						"gitbas",
 						"Git: Show Commit By Hash"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"ter",
@@ -662,10 +715,6 @@
 						"Set Syntax: PHP"
 					],
 					[
-						"ssjs",
-						"Set Syntax: JavaScript"
-					],
-					[
 						"mdp",
 						"Markdown Preview: Preview in Browser"
 					],
@@ -680,10 +729,6 @@
 					[
 						"snipeet",
 						"Snippet: <meta>"
-					],
-					[
-						"mdpr",
-						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"bs3",
@@ -801,134 +846,134 @@
 			},
 			"file_history":
 			[
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/package.json",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/food/food.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratings/ratings.vue",
+				"/E/Web/适配文件/js/bxm.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/date.js",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue1.sublime-snippet",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsSelect/ratingsSelect.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/ratingselect/ratingselect.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/food/food.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/bxm.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/split/split.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/plus/plus.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/cartcontrol/cartcontrol.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/App.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/goods/goods.vue",
+				"/C/Users/bxm09/Desktop/WebDemo/index.html",
+				"/E/Java/workspace/HadoopCra/src/com/baizhi/pc/RunA.java",
+				"/E/Java/workspace/HadoopCra/src/com/baizhi/pc/Crawler.java",
+				"/E/Java/workspace/HadoopCra/src/com/baizhi/action/AllHFAction.java",
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.css",
+				"/D/Java/apache-tomcat-9.0.0.M21/conf/server.xml",
+				"/D/Java/apache-tomcat-9.0.0.M21/webapps/HelloWorld/WEB-INF/web.xml",
+				"/D/Java/apache-tomcat-9.0.0.M21/webapps/HelloWorld/index.jsp",
+				"/C/Users/bxm09/Desktop/Hello.java",
+				"/C/Users/bxm09/Desktop/Hello.class",
+				"/D/GitHub/Hexo/bxm0927.github.io/_config.yml",
+				"/D/GitHub/Hexo/bxm0927.github.io/package.json",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
+				"/C/Users/bxm09/Desktop/WebDemo/css/demo1.css",
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo1.sass",
+				"/C/Users/bxm09/Desktop/WebDemo/css/demo.css",
+				"/C/Users/bxm09/Desktop/WebDemo/public/.css",
+				"/C/Users/bxm09/Desktop/WebDemo/public/stylesheets",
+				"/C/Users/bxm09/Desktop/WebDemo/demo.scss",
+				"/C/Users/bxm09/Desktop/WebDemo/demo.css",
+				"/C/Users/bxm09/Desktop/WebDemo/demo1.css",
+				"/C/Users/bxm09/Desktop/WebDemo/demo1.sass",
+				"/E/石软资料/【课程】/项目管理/README.md",
+				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/js/index.js",
+				"/E/Web/Project/同学会/同学会1.0/index.html",
+				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/index.css",
+				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
+				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/indexstyle.css",
+				"/E/Web/响应式布局/licaibao-responsive/src/index.html",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/shopcart/shopcart.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/shopcart/shopcart.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
+				"/C/Users/bxm09/Documents/Tencent Files/80583600/FileRecv/jquery.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
+				"/E/Web/适配文件/【HTML5 - Template】/src/index.html",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm01.sublime-snippet",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm02.sublime-snippet",
+				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/buildBlog.md",
+				"/E/Web/适配文件/【HTML5 - Template】/.editorconfig",
+				"/E/Web/适配文件/【HTML5 - Template】/.gitignore",
+				"/E/Web/适配文件/【HTML5 - Template】/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/index.html",
+				"/E/Web/wamp64/www/bank/mysql.php",
+				"/E/Web/wamp64/www/bank/index.php",
+				"/E/Web/wamp64/www/bank/doMain.php",
+				"/E/Web/wamp64/www/bank/main.php",
+				"/E/Web/wamp64/www/bank/doLogin.php",
+				"/E/Web/wamp64/www/bank/mian.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/doLogin.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/lib/common.func.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/core/admin.inc.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/lib/mysql.func.php",
+				"/E/Web/wamp64/www/bank/css/index.css",
+				"/E/Web/wamp64/www/bank/include.php",
+				"/E/Web/wamp64/www/bank/doAction.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/doAction.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/login.php",
+				"/E/Web/浏览器兼容性/键盘事件 keyCode/demo.html",
+				"/E/Web/浏览器兼容性/IE与非IE事件处理程序（能力检测）/eventshiv.js",
+				"/E/Web/浏览器兼容性/完美解决Placeholder/js/JPlaceholder.js",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/.gitattributes",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 				"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
 				"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/index.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/header/header.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell-master/src/common/scss/_mixins.scss",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/static/css/myreset.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/index.html",
 				"/C/Users/bxm09/Desktop/font_92lveyg79mz8semi/demo.css",
 				"/C/Users/bxm09/Desktop/font_92lveyg79mz8semi/iconfont.css",
 				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/css/iconfont.css",
 				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/package.json",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/build/dev-server.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-resource/package.json",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/common/stylus/mixin.styl",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/E/Web/Project/WebDemo/css/style.css",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/header/header.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project/src/main.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/project/src/main.js",
 				"/C/Users/bxm09/Desktop/test/src/main.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project/src/router/index.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-router/package.json",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/router/index.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratings/ratings.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods.bue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/Hello.vue",
-				"/E/Web/适配文件/【HTML5 - Template】/src/index.html",
 				"/E/Web/适配文件/【HTML5 - Template】/src/humans.txt",
 				"/E/Web/适配文件/【HTML5 - Template】/src/404.html",
 				"/E/HIS/js类使用说明.txt",
 				"/E/HIS/syt_copy/js/aaa.js",
 				"/E/HIS/syt_copy/js/aab.js",
 				"/E/HIS/syt_copy/js/aac.js",
-				"/E/Web/适配文件/js/bxm.js",
 				"/E/Web/适配文件/js/myTime.js",
 				"/E/Web/适配文件/js/myRegExp.js",
 				"/E/Web/适配文件/js/myBOM.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/stylus/iconfont.css",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/stylus/icon.styl",
 				"/C/Users/bxm09/Desktop/elelmeApp/src/App.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp/README.md",
-				"/E/Web/适配文件/【HTML5 - Template】/README.md",
-				"/E/Web/适配文件/【HTML5 - Template】/src/css/myreset.css",
-				"/E/Web/适配文件/【HTML5 - Template】/src/js/index.js",
-				"/E/Web/适配文件/【HTML5 - Template】/gulpfile.js",
-				"/C/Users/bxm09/Desktop/elelmeApp/src/index.html",
-				"/C/Users/bxm09/Desktop/index.html",
-				"/C/Users/bxm09/Desktop/elelmeApp/.editorconfig",
-				"/E/Web/Project/WebDemo/index.html",
-				"/C/Users/bxm09/Desktop/elelmeApp/gulpfile.js",
-				"/C/Users/bxm09/Desktop/elelmeApp/LICENSE.txt",
-				"/E/Web/Framework/Vue.js/Vue-demo/css/index.css",
-				"/E/Web/Framework/Vue.js/Vue-demo/js/index.js",
-				"/E/Web/Framework/Vue.js/Vue-demo/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/buildBlog.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/user/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/hand-peace-o/index.md",
-				"/E/Web/响应式布局/licaibao-responsive/README.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/db.json",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/404.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/source/README.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/.deploy_git/README.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/RegExp.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/pageName/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/PHP_Cookie_Session.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/mysqlCommon.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/.deploy_git/2017/05/30/buildBlog/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/.deploy_git/about/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/layout/layout.ejs",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/languages/zh-CN.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/about/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/WPO.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/languages/en.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/layout/_partial/script.ejs",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/tags/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/aboutme/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/languages/zh-TW.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/.deploy_git/categories/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/categories/index-1.html",
-				"/E/Web/网页常用效果/404页面/404.html",
-				"/E/Web/网页常用效果/404页面/jquery创建404动画页面/js/jquery.js",
-				"/E/Web/网页常用效果/404页面/jquery创建404动画页面/css/styles.css",
-				"/C/Users/bxm09/Desktop/microzz.github.io-master/404.html",
-				"/C/Users/bxm09/Desktop/microzz.github.io-master/README.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/categories/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/404.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/2017-5-30.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/categories/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/tags/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/source/css/style.less",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/sitemap.xml",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/CNAME",
-				"/D/GitHub/Hexo/bxm0927.github.io/node_modules/hexo/node_modules/hexo-cli/assets/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/CNAME",
-				"/D/GitHub/Hexo/CNAME",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/next/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/hello-world.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/bxm.md",
-				"/C/Users/bxm09/.ssh/id_rsa.pub",
-				"/D/GitHub/Hexo/bxm0927.github.io/package.json",
-				"/C/Users/bxm09/.ssh/github_rsa.pub",
-				"/D/GitHub/Hexo/test/_config.yml",
-				"/D/GitHub/Hexo/test/public/CNAME",
-				"/D/GitHub/Hexo/test/source/_posts/hello-world.md",
-				"/D/GitHub/Hexo/test/source/_posts/Hello World.md",
-				"/D/GitHub/Hexo/test/source/_posts/文章标题.md",
-				"/C/Users/bxm09/AppData/Local/Temp/360zip$Temp/360$1/README.md",
-				"/C/Users/bxm09/Desktop/HTML5和CSS3扁平化风格博客/index.html",
-				"/C/Users/bxm09/Desktop/HTML5和CSS3扁平化风格博客/css/myreset.css",
-				"/C/Users/bxm09/Desktop/HTML5和CSS3扁平化风格博客/css/index.css",
-				"/E/openCV/OpenCV图像处理编程实例/chapter2/2-6.cpp",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
-				"/E/Web/Project/WebDemo/README.md",
-				"/E/Web/wamp64/www/indephpx.php"
+				"/C/Users/bxm09/Desktop/elelmeApp/README.md"
 			],
 			"find":
 			{
@@ -939,6 +984,8 @@
 				"height": 164.0,
 				"where_history":
 				[
+					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp",
+					"E:\\Web\\wamp64\\www\\imooc_shopImooc\\imooc_shopImooc",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp\\src",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\my-project\\src",
@@ -954,6 +1001,105 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"css",
+					"sass",
+					"0",
+					"ss",
+					"sass",
+					"ratingsBoxSelect",
+					"ratings",
+					"haha",
+					"ratingsSelect",
+					" // ",
+					"//",
+					".image-header",
+					"split",
+					"evaluate",
+					"div",
+					"foodComing",
+					"0",
+					"stop",
+					"$brand-primary",
+					"D",
+					"C",
+					"B",
+					"A",
+					"B",
+					"A",
+					"_",
+					"item",
+					".food ",
+					"transition: all .5s",
+					"fade",
+					"shopcart-box",
+					".food",
+					"shopcart",
+					"fold",
+					"食品详情页",
+					".shopcart",
+					".shopcart ",
+					"list-mask",
+					"vheader",
+					"v-el",
+					"fade",
+					"vheader",
+					"fold",
+					"ball-content",
+					".list-content",
+					"plus-wrapper",
+					"ball-fly",
+					";",
+					"fly",
+					"addFood",
+					"event",
+					"target",
+					"slide-fade",
+					"},",
+					"select",
+					"selectF",
+					"bounce",
+					"fade",
+					".vheader",
+					"fade",
+					"vheader",
+					"plus-wrapper",
+					"fade",
+					"transition",
+					"v-show=\"food.count>0\" ",
+					"v-show=\"food.count==0\" ",
+					" v-show=\"food.count==0\"",
+					"foods-item",
+					">0",
+					">",
+					"v-show=\"food.count>0\" ",
+					"plus-wrapper",
+					"v-show=\"food.count>0\" ",
+					"v-show=\"food.count",
+					"use strict",
+					"use s",
+					"use ",
+					"strict",
+					"strict ",
+					"content-right",
+					"${1:hello}",
+					".supports-",
+					".detail-",
+					".fade-",
+					".supports",
+					".supports-",
+					".content-",
+					".star-",
+					".star",
+					".foods",
+					"menu-item",
+					"es6",
+					"(item,index)",
+					"(item,",
+					"1",
+					"menu-wrapper",
+					"supports",
+					" !== null",
+					"login()",
 					"span",
 					"4",
 					".3",
@@ -982,106 +1128,7 @@
 					"48",
 					"24",
 					"2",
-					"span",
-					"56",
-					"div",
-					"icon",
-					".iconfont {\n  font-family:\"iconfont\" !important;\n  font-size:16px;\n  font-style:normal;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}",
-					"@font-face {font-family: \"iconfont\";\n  src: url('iconfont.eot?t=1496496421034'); /* IE9*/\n  src: url('iconfont.eot?t=1496496421034#iefix') format('embedded-opentype'), /* IE6-IE8 */\n  url('iconfont.woff?t=1496496421034') format('woff'), /* chrome, firefox */\n  url('iconfont.ttf?t=1496496421034') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/\n  url('iconfont.svg?t=1496496421034#iconfont') format('svg'); /* iOS 4.1- */\n}",
-					"guarantee_1@2x.png",
-					"content",
-					".content-wrapper ",
-					"someData",
-					";",
-					"'",
-					"ath",
-					"a",
-					"}",
-					"{",
-					"v-",
-					"component",
-					"components",
-					"component",
-					"Vue.config.productionTip = false",
-					"components",
-					"Vuerouter",
-					"router",
-					"vueRouter",
-					"Vuerouter",
-					"router",
-					".vue",
-					"cylist",
-					"edit",
-					"lst1",
-					"an",
-					"cylist",
-					"an",
-					"gxchkfn",
-					"send",
-					"addserch",
-					"lst1",
-					"seller",
-					"第",
-					"footer",
-					"####",
-					"#",
-					"  ● ",
-					"icon-home",
-					"这是我的个人网站。里面有各种IT技术分享，欢迎大家访问。",
-					"这是我的个人网站。里面有各种IT技术分享，欢迎大家访问",
-					"http://www.lovebxm.com",
-					"：",
-					" ",
-					"👉",
-					"　",
-					":",
-					"&nbsp",
-					"  ",
-					"：",
-					"#",
-					"icon-github",
-					"footer",
-					"#",
-					"This blog is licensed under a",
-					"dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js",
-					"站点总访客数",
-					"博客内容遵循",
-					"阅读全文...",
-					"最后更新时间",
-					"Last updated",
-					"这里可以写作者留言，标签和 hexo 中所有变量及辅助函数等均可调用",
-					".deploy_git",
-					"icon-archives",
-					"    ",
-					"###",
-					"search_children",
-					"##",
-					"本文地址",
-					"theme",
-					"threme",
-					"sitemaps",
-					"map",
-					"yoursite.com",
-					"yousit.com",
-					"lovebxm.com",
-					".com",
-					"yoursite.com",
-					"yoursite",
-					"plugins",
-					"Plugins",
-					"Pisces",
-					"menu",
-					"item name",
-					"menu",
-					"scheme",
-					"gdutxiaoxu",
-					"CMCC-AUTO",
-					"a href=\"\"",
-					"div",
-					"p",
-					"index",
-					")\">\n",
-					"todo"
+					"span"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1105,6 +1152,10 @@
 				"height": 68.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 174.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -1160,7 +1211,7 @@
 			{
 			}
 		},
-		"new_window_width": 1058.0
+		"new_window_width": 1300.0
 	},
 	"windows":
 	[
@@ -1169,6 +1220,186 @@
 			{
 				"selected_items":
 				[
+					[
+						"sc",
+						"score"
+					],
+					[
+						"div",
+						"div\t<div>"
+					],
+					[
+						"sty",
+						"style\tTag"
+					],
+					[
+						"Nu",
+						"Number.MAX_VALUE\tNumber"
+					],
+					[
+						"com",
+						"components"
+					],
+					[
+						"common",
+						"common/"
+					],
+					[
+						"Date",
+						"new Date()\tDate"
+					],
+					[
+						"sele",
+						"selectType"
+					],
+					[
+						"rati",
+						"rating\t(food.vue)"
+					],
+					[
+						"gree",
+						"green"
+					],
+					[
+						"rgb",
+						"rgb()"
+					],
+					[
+						"blo",
+						"block\t(food.vue)"
+					],
+					[
+						"rin",
+						"ratings"
+					],
+					[
+						"fi",
+						"fixed"
+					],
+					[
+						"cons",
+						"console.log\t(goods.vue)"
+					],
+					[
+						"box-s",
+						"box-sizing"
+					],
+					[
+						"c",
+						"cl\tclass"
+					],
+					[
+						"p",
+						"pu\tpublic"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"scr",
+						"scroll\t(goods.vue)"
+					],
+					[
+						"borderb",
+						"border-box"
+					],
+					[
+						"boxs",
+						"box-sizing"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"ball",
+						"balls"
+					],
+					[
+						"v",
+						"vue\tVue instance"
+					],
+					[
+						"trans",
+						"transition"
+					],
+					[
+						"push",
+						"push(${0:element1})\tArray"
+					],
+					[
+						"conso",
+						"console.log"
+					],
+					[
+						"toa",
+						"totalCount"
+					],
+					[
+						"to",
+						"totalCount"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"borb",
+						"border-box"
+					],
+					[
+						"borr",
+						"border-radius"
+					],
+					[
+						"dee",
+						"deepskyblue"
+					],
+					[
+						"foods",
+						"foodsScroll"
+					],
+					[
+						"hei",
+						"height1"
+					],
+					[
+						"heig",
+						"height"
+					],
+					[
+						"Mathr",
+						"Math.round($0)\tMath"
+					],
+					[
+						"ref",
+						"refs"
+					],
+					[
+						"wid",
+						"width\tAttr"
+					],
+					[
+						"foo",
+						"foods\t(data.json)"
+					],
+					[
+						"tabl",
+						"table-cell"
+					],
+					[
+						"dec",
+						"decrease_2@2x.png\tw:32 h:32"
+					],
+					[
+						"tab",
+						"table"
+					],
 					[
 						"deep",
 						"deepskyblue"
@@ -1180,10 +1411,6 @@
 					[
 						"tran",
 						"transition"
-					],
-					[
-						"sty",
-						"style\tAttr"
 					],
 					[
 						"blur",
@@ -1198,10 +1425,6 @@
 						"star36_half@2x.png\tw:30 h:29"
 					],
 					[
-						"com",
-						"components\t(main.js)"
-					],
-					[
 						"CLS_O",
 						"CLS_OFF"
 					],
@@ -1212,10 +1435,6 @@
 					[
 						"for",
 						"for\tfor (…) {…}"
-					],
-					[
-						"scr",
-						"scrollTop\t.scrollTop()"
 					],
 					[
 						"img",
@@ -1232,10 +1451,6 @@
 					[
 						"url",
 						"url()"
-					],
-					[
-						"gree",
-						"greenyellow"
 					],
 					[
 						"bacc",
@@ -1264,10 +1479,6 @@
 					[
 						"dis",
 						"discount_1@2x.png\tw:24 h:24"
-					],
-					[
-						"dec",
-						"decrease_1@2x.png\tw:24 h:24"
 					],
 					[
 						"no-",
@@ -1402,20 +1613,8 @@
 						"console.log('$0');"
 					],
 					[
-						"cons",
-						"console.log('$0');"
-					],
-					[
 						"ad",
 						"ad001-l.png\tw:1600 h:450"
-					],
-					[
-						"max",
-						"max-width"
-					],
-					[
-						"fi",
-						"filter"
 					],
 					[
 						"lo",
@@ -1426,16 +1625,8 @@
 						"img/"
 					],
 					[
-						"cl",
-						"clearfix"
-					],
-					[
 						"fontst",
 						"font-style"
-					],
-					[
-						"to",
-						"tov-e\ttext-overflow: ellipsis;"
 					],
 					[
 						"fots",
@@ -1518,10 +1709,6 @@
 						"inputs\tinput - submit"
 					],
 					[
-						"wid",
-						"width"
-					],
-					[
 						"scrip",
 						"script\tTag"
 					],
@@ -1538,165 +1725,107 @@
 						"relative"
 					],
 					[
-						"sc",
-						"scope"
-					],
-					[
 						"cli",
 						"click\tEvent"
 					],
 					[
 						"ins",
 						"inputs\tinput - submit"
-					],
-					[
-						"met",
-						"method\tAttr"
-					],
-					[
-						"var",
-						"var_dump"
-					],
-					[
-						"GLO",
-						"global"
-					],
-					[
-						"glo",
-						"GLOBALS"
-					],
-					[
-						"setti",
-						"setInterval(${0:func}, delay)\tWindow"
-					],
-					[
-						"file",
-						"filename"
-					],
-					[
-						"is_",
-						"is_null"
-					],
-					[
-						"image_type",
-						"image_type_to_mime_type"
-					],
-					[
-						"imaged",
-						"imagedestroy"
-					],
-					[
-						"imagecopy",
-						"imagecopyresampled"
-					],
-					[
-						"imagectc",
-						"imagecreatetruecolor"
-					],
-					[
-						"imagecr",
-						"imagecreatefromjpeg"
-					],
-					[
-						"up",
-						"upload.func.php"
-					],
-					[
-						"is_s",
-						"is_string"
-					],
-					[
-						"tem",
-						"tmp_name"
-					],
-					[
-						"te",
-						"text\t(images.func.php)"
-					],
-					[
-						"hea",
-						"header\t(images.func.php)"
-					],
-					[
-						"heaer",
-						"header(\"content-type\t(images.func.php)"
-					],
-					[
-						"show",
-						"showPage($page\t(page.func.php)"
-					],
-					[
-						"els",
-						"else\t(index.php)"
-					],
-					[
-						"row",
-						"rows\t(listAdmin.php)"
-					],
-					[
-						"do",
-						"doAdminAction.php"
-					],
-					[
-						"requ",
-						"require_once\t(index.php)"
-					],
-					[
-						"lis",
-						"listAdmin.php\t(index.php)"
-					],
-					[
-						"inputs",
-						"inputs\tinput - submit"
-					],
-					[
-						"set",
-						"setcookie"
-					],
-					[
-						"_",
-						"_POST"
-					],
-					[
-						"he",
-						"header\t<header>"
-					],
-					[
-						"session_d",
-						"session_destroy"
-					],
-					[
-						"sess",
-						"session_name"
-					],
-					[
-						"header",
-						"header"
-					],
-					[
-						"mysql_num",
-						"mysql_num_rows"
-					],
-					[
-						"fu",
-						"fun\tfunction …"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
+					"settings":
+					{
+						"buffer_size": 2941,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
+					"settings":
+					{
+						"buffer_size": 46133,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
-			"build_system": "",
+			"build_system": "Packages/SASS Build/SASS.sublime-build",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "sscss",
+				"last_filter": "rem",
 				"selected_items":
 				[
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"rmove",
+						"Package Control: Remove Package"
+					],
+					[
+						"vue",
+						"Snippet: vue1"
+					],
+					[
+						"ssht",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sss",
+						"Set Syntax: Sass"
+					],
+					[
+						"REM",
+						"Package Control: Remove Package"
+					],
+					[
+						"vue1",
+						"Snippet: vue1"
+					],
+					[
+						"mdpr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssp",
+						"Set Syntax: PHP"
+					],
 					[
 						"sscss",
 						"Set Syntax: CSS"
@@ -1714,10 +1843,6 @@
 						"Git: Show Commit By Hash"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
 						"ter",
 						"Terminal: Open"
 					],
@@ -1726,20 +1851,12 @@
 						"Terminal: Open"
 					],
 					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
 						"fetch",
 						"Fetch: Package"
 					],
 					[
 						"ssphp",
 						"Set Syntax: PHP"
-					],
-					[
-						"ssjs",
-						"Set Syntax: JavaScript"
 					],
 					[
 						"mdp",
@@ -1756,10 +1873,6 @@
 					[
 						"snipeet",
 						"Snippet: <meta>"
-					],
-					[
-						"mdpr",
-						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"bs3",
@@ -1875,146 +1988,160 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/img",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/star"
+			],
 			"file_history":
 			[
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/star/star.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/C/Users/bxm09/Desktop/WebDemo/index.html",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/package.json",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/food/food.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratings/ratings.vue",
+				"/E/Web/适配文件/js/bxm.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/date.js",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue1.sublime-snippet",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsSelect/ratingsSelect.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/ratingselect/ratingselect.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/food/food.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/bxm.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/split/split.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/plus/plus.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/cartcontrol/cartcontrol.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/App.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/goods/goods.vue",
+				"/E/Java/workspace/HadoopCra/src/com/baizhi/pc/RunA.java",
+				"/E/Java/workspace/HadoopCra/src/com/baizhi/pc/Crawler.java",
+				"/E/Java/workspace/HadoopCra/src/com/baizhi/action/AllHFAction.java",
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.css",
+				"/D/Java/apache-tomcat-9.0.0.M21/conf/server.xml",
+				"/D/Java/apache-tomcat-9.0.0.M21/webapps/HelloWorld/WEB-INF/web.xml",
+				"/D/Java/apache-tomcat-9.0.0.M21/webapps/HelloWorld/index.jsp",
+				"/C/Users/bxm09/Desktop/Hello.java",
+				"/C/Users/bxm09/Desktop/Hello.class",
+				"/D/GitHub/Hexo/bxm0927.github.io/_config.yml",
+				"/D/GitHub/Hexo/bxm0927.github.io/package.json",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
+				"/C/Users/bxm09/Desktop/WebDemo/css/demo1.css",
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo1.sass",
+				"/C/Users/bxm09/Desktop/WebDemo/css/demo.css",
+				"/C/Users/bxm09/Desktop/WebDemo/public/.css",
+				"/C/Users/bxm09/Desktop/WebDemo/public/stylesheets",
+				"/C/Users/bxm09/Desktop/WebDemo/demo.scss",
+				"/C/Users/bxm09/Desktop/WebDemo/demo.css",
+				"/C/Users/bxm09/Desktop/WebDemo/demo1.css",
+				"/C/Users/bxm09/Desktop/WebDemo/demo1.sass",
+				"/E/石软资料/【课程】/项目管理/README.md",
+				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/js/index.js",
+				"/E/Web/Project/同学会/同学会1.0/index.html",
 				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/index.css",
+				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
+				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/indexstyle.css",
+				"/E/Web/响应式布局/licaibao-responsive/src/index.html",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/shopcart/shopcart.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/shopcart/shopcart.vue",
+				"/C/Users/bxm09/Documents/Tencent Files/80583600/FileRecv/jquery.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
+				"/E/Web/适配文件/【HTML5 - Template】/src/index.html",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm01.sublime-snippet",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm02.sublime-snippet",
+				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/buildBlog.md",
+				"/E/Web/适配文件/【HTML5 - Template】/.editorconfig",
+				"/E/Web/适配文件/【HTML5 - Template】/.gitignore",
+				"/E/Web/适配文件/【HTML5 - Template】/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/index.html",
+				"/E/Web/wamp64/www/bank/mysql.php",
+				"/E/Web/wamp64/www/bank/index.php",
+				"/E/Web/wamp64/www/bank/doMain.php",
+				"/E/Web/wamp64/www/bank/main.php",
+				"/E/Web/wamp64/www/bank/doLogin.php",
+				"/E/Web/wamp64/www/bank/mian.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/doLogin.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/lib/common.func.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/core/admin.inc.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/lib/mysql.func.php",
+				"/E/Web/wamp64/www/bank/css/index.css",
+				"/E/Web/wamp64/www/bank/include.php",
+				"/E/Web/wamp64/www/bank/doAction.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/doAction.php",
+				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/login.php",
+				"/E/Web/浏览器兼容性/键盘事件 keyCode/demo.html",
+				"/E/Web/浏览器兼容性/IE与非IE事件处理程序（能力检测）/eventshiv.js",
+				"/E/Web/浏览器兼容性/完美解决Placeholder/js/JPlaceholder.js",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/.gitattributes",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 				"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
 				"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/index.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/header/header.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell-master/src/common/scss/_mixins.scss",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/static/css/myreset.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/index.html",
 				"/C/Users/bxm09/Desktop/font_92lveyg79mz8semi/demo.css",
 				"/C/Users/bxm09/Desktop/font_92lveyg79mz8semi/iconfont.css",
 				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/css/iconfont.css",
 				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/package.json",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/build/dev-server.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-resource/package.json",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/common/stylus/mixin.styl",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/E/Web/Project/WebDemo/css/style.css",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/header/header.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project/src/main.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/project/src/main.js",
 				"/C/Users/bxm09/Desktop/test/src/main.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project/src/router/index.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-router/package.json",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/router/index.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratings/ratings.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods.bue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/Hello.vue",
-				"/E/Web/适配文件/【HTML5 - Template】/src/index.html",
 				"/E/Web/适配文件/【HTML5 - Template】/src/humans.txt",
 				"/E/Web/适配文件/【HTML5 - Template】/src/404.html",
 				"/E/HIS/js类使用说明.txt",
 				"/E/HIS/syt_copy/js/aaa.js",
 				"/E/HIS/syt_copy/js/aab.js",
-				"/E/HIS/syt_copy/js/aac.js",
-				"/E/Web/适配文件/js/bxm.js",
-				"/E/Web/适配文件/js/myTime.js",
-				"/E/Web/适配文件/js/myRegExp.js",
-				"/E/Web/适配文件/js/myBOM.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/stylus/iconfont.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/stylus/icon.styl",
-				"/C/Users/bxm09/Desktop/elelmeApp/src/App.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp/README.md",
-				"/E/Web/适配文件/【HTML5 - Template】/README.md",
-				"/E/Web/适配文件/【HTML5 - Template】/src/css/myreset.css",
-				"/E/Web/适配文件/【HTML5 - Template】/src/js/index.js",
-				"/E/Web/适配文件/【HTML5 - Template】/gulpfile.js",
-				"/C/Users/bxm09/Desktop/elelmeApp/src/index.html",
-				"/C/Users/bxm09/Desktop/index.html",
-				"/C/Users/bxm09/Desktop/elelmeApp/.editorconfig",
-				"/E/Web/Project/WebDemo/index.html",
-				"/C/Users/bxm09/Desktop/elelmeApp/gulpfile.js",
-				"/C/Users/bxm09/Desktop/elelmeApp/LICENSE.txt",
-				"/E/Web/Framework/Vue.js/Vue-demo/css/index.css",
-				"/E/Web/Framework/Vue.js/Vue-demo/js/index.js",
-				"/E/Web/Framework/Vue.js/Vue-demo/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/buildBlog.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/user/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/hand-peace-o/index.md",
-				"/E/Web/响应式布局/licaibao-responsive/README.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/db.json",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/404.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/source/README.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/.deploy_git/README.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/RegExp.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/pageName/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/PHP_Cookie_Session.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/mysqlCommon.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/.deploy_git/2017/05/30/buildBlog/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/.deploy_git/about/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/layout/layout.ejs",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/languages/zh-CN.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/about/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/WPO.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/languages/en.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/layout/_partial/script.ejs",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/tags/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/aboutme/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/languages/zh-TW.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/.deploy_git/categories/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/categories/index-1.html",
-				"/E/Web/网页常用效果/404页面/404.html",
-				"/E/Web/网页常用效果/404页面/jquery创建404动画页面/js/jquery.js",
-				"/E/Web/网页常用效果/404页面/jquery创建404动画页面/css/styles.css",
-				"/C/Users/bxm09/Desktop/microzz.github.io-master/404.html",
-				"/C/Users/bxm09/Desktop/microzz.github.io-master/README.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/categories/index.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/404.html",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/2017-5-30.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/categories/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/tags/index.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/indigo/source/css/style.less",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/sitemap.xml",
-				"/D/GitHub/Hexo/bxm0927.github.io/public/CNAME",
-				"/D/GitHub/Hexo/bxm0927.github.io/node_modules/hexo/node_modules/hexo-cli/assets/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/CNAME",
-				"/D/GitHub/Hexo/CNAME",
-				"/D/GitHub/Hexo/bxm0927.github.io/themes/next/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/hello-world.md",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/bxm.md",
-				"/C/Users/bxm09/.ssh/id_rsa.pub",
-				"/D/GitHub/Hexo/bxm0927.github.io/package.json",
-				"/C/Users/bxm09/.ssh/github_rsa.pub",
-				"/D/GitHub/Hexo/test/_config.yml",
-				"/D/GitHub/Hexo/test/public/CNAME",
-				"/D/GitHub/Hexo/test/source/_posts/hello-world.md",
-				"/D/GitHub/Hexo/test/source/_posts/Hello World.md",
-				"/D/GitHub/Hexo/test/source/_posts/文章标题.md",
-				"/C/Users/bxm09/AppData/Local/Temp/360zip$Temp/360$1/README.md",
-				"/C/Users/bxm09/Desktop/HTML5和CSS3扁平化风格博客/index.html",
-				"/C/Users/bxm09/Desktop/HTML5和CSS3扁平化风格博客/css/myreset.css",
-				"/C/Users/bxm09/Desktop/HTML5和CSS3扁平化风格博客/css/index.css",
-				"/E/openCV/OpenCV图像处理编程实例/chapter2/2-6.cpp"
+				"/E/HIS/syt_copy/js/aac.js"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 72.0
 			},
 			"find_in_files":
 			{
 				"height": 164.0,
 				"where_history":
 				[
+					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp",
+					"E:\\Web\\wamp64\\www\\imooc_shopImooc\\imooc_shopImooc",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp\\src",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\my-project\\src",
@@ -2030,6 +2157,110 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"48",
+					"'star-' + this.size + '-' + ",
+					"48",
+					"serviceScore",
+					"split",
+					"css",
+					"sass",
+					"0",
+					"ss",
+					"sass",
+					"ratingsBoxSelect",
+					"ratings",
+					"haha",
+					"ratingsSelect",
+					" // ",
+					"//",
+					".image-header",
+					"split",
+					"evaluate",
+					"div",
+					"foodComing",
+					"0",
+					"stop",
+					"$brand-primary",
+					"D",
+					"C",
+					"B",
+					"A",
+					"B",
+					"A",
+					"_",
+					"item",
+					".food ",
+					"transition: all .5s",
+					"fade",
+					"shopcart-box",
+					".food",
+					"shopcart",
+					"fold",
+					"食品详情页",
+					".shopcart",
+					".shopcart ",
+					"list-mask",
+					"vheader",
+					"v-el",
+					"fade",
+					"vheader",
+					"fold",
+					"ball-content",
+					".list-content",
+					"plus-wrapper",
+					"ball-fly",
+					";",
+					"fly",
+					"addFood",
+					"event",
+					"target",
+					"slide-fade",
+					"},",
+					"select",
+					"selectF",
+					"bounce",
+					"fade",
+					".vheader",
+					"fade",
+					"vheader",
+					"plus-wrapper",
+					"fade",
+					"transition",
+					"v-show=\"food.count>0\" ",
+					"v-show=\"food.count==0\" ",
+					" v-show=\"food.count==0\"",
+					"foods-item",
+					">0",
+					">",
+					"v-show=\"food.count>0\" ",
+					"plus-wrapper",
+					"v-show=\"food.count>0\" ",
+					"v-show=\"food.count",
+					"use strict",
+					"use s",
+					"use ",
+					"strict",
+					"strict ",
+					"content-right",
+					"${1:hello}",
+					".supports-",
+					".detail-",
+					".fade-",
+					".supports",
+					".supports-",
+					".content-",
+					".star-",
+					".star",
+					".foods",
+					"menu-item",
+					"es6",
+					"(item,index)",
+					"(item,",
+					"1",
+					"menu-wrapper",
+					"supports",
+					" !== null",
+					"login()",
 					"span",
 					"4",
 					".3",
@@ -2053,111 +2284,7 @@
 					"CLS_ON",
 					"CLSON",
 					"camel",
-					"CLS_HAlF",
-					"20",
-					"48",
-					"24",
-					"2",
-					"span",
-					"56",
-					"div",
-					"icon",
-					".iconfont {\n  font-family:\"iconfont\" !important;\n  font-size:16px;\n  font-style:normal;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}",
-					"@font-face {font-family: \"iconfont\";\n  src: url('iconfont.eot?t=1496496421034'); /* IE9*/\n  src: url('iconfont.eot?t=1496496421034#iefix') format('embedded-opentype'), /* IE6-IE8 */\n  url('iconfont.woff?t=1496496421034') format('woff'), /* chrome, firefox */\n  url('iconfont.ttf?t=1496496421034') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/\n  url('iconfont.svg?t=1496496421034#iconfont') format('svg'); /* iOS 4.1- */\n}",
-					"guarantee_1@2x.png",
-					"content",
-					".content-wrapper ",
-					"someData",
-					";",
-					"'",
-					"ath",
-					"a",
-					"}",
-					"{",
-					"v-",
-					"component",
-					"components",
-					"component",
-					"Vue.config.productionTip = false",
-					"components",
-					"Vuerouter",
-					"router",
-					"vueRouter",
-					"Vuerouter",
-					"router",
-					".vue",
-					"cylist",
-					"edit",
-					"lst1",
-					"an",
-					"cylist",
-					"an",
-					"gxchkfn",
-					"send",
-					"addserch",
-					"lst1",
-					"seller",
-					"第",
-					"footer",
-					"####",
-					"#",
-					"  ● ",
-					"icon-home",
-					"这是我的个人网站。里面有各种IT技术分享，欢迎大家访问。",
-					"这是我的个人网站。里面有各种IT技术分享，欢迎大家访问",
-					"http://www.lovebxm.com",
-					"：",
-					" ",
-					"👉",
-					"　",
-					":",
-					"&nbsp",
-					"  ",
-					"：",
-					"#",
-					"icon-github",
-					"footer",
-					"#",
-					"This blog is licensed under a",
-					"dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js",
-					"站点总访客数",
-					"博客内容遵循",
-					"阅读全文...",
-					"最后更新时间",
-					"Last updated",
-					"这里可以写作者留言，标签和 hexo 中所有变量及辅助函数等均可调用",
-					".deploy_git",
-					"icon-archives",
-					"    ",
-					"###",
-					"search_children",
-					"##",
-					"本文地址",
-					"theme",
-					"threme",
-					"sitemaps",
-					"map",
-					"yoursite.com",
-					"yousit.com",
-					"lovebxm.com",
-					".com",
-					"yoursite.com",
-					"yoursite",
-					"plugins",
-					"Plugins",
-					"Pisces",
-					"menu",
-					"item name",
-					"menu",
-					"scheme",
-					"gdutxiaoxu",
-					"CMCC-AUTO",
-					"a href=\"\"",
-					"div",
-					"p",
-					"index",
-					")\">\n",
-					"todo"
+					"CLS_HAlF"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2172,11 +2299,268 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\GitHub\\Hexo\\bxm0927.github.io"
+				},
+				{
+					"path": "C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp"
+				},
+				{
+					"path": "C:\\Users\\bxm09\\Desktop\\WebDemo"
+				},
+				{
+					"path": "C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\sell"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2941,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2250,
+										2250
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2293,
+												2294
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2152,
+												2153
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2088.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 46133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										73,
+										85
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												85,
+												86
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												72,
+												73
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -2211,6 +2595,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 174.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -2224,7 +2612,7 @@
 				"height": 168.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,837,433,191,1507",
+			"position": "0,2,1,-32000,-32000,-1,-1,935,284,92,1600",
 			"project": "",
 			"replace":
 			{
@@ -2266,7 +2654,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 209.0,
+			"side_bar_width": 223.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

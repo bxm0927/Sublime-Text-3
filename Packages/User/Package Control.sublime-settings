@@ -10,7 +10,6 @@
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
-		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Can I Use",
 		"ChineseLocalizations",
@@ -26,15 +25,19 @@
 		"IMESupport",
 		"JavaScript & NodeJS Snippets",
 		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JsFormat",
 		"Markdown Preview",
 		"Material Theme",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"Sass",
+		"SASS Build",
 		"SideBarEnhancements",
 		"Terminal",
 		"Theme - Soda",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
