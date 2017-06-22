@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/C/Users/bxm09/Desktop/新建文件夹",
+		"/E/HIS/syt_copy",
 		"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell",
 		"/D/GitHub/Hexo/bxm0927.github.io",
 		"/C/Users/bxm09/Desktop/WebDemo",
@@ -14,7 +16,6 @@
 		"/E/Web/Project/WebDemo",
 		"/E/Web/适配文件/【HTML5 - Template】",
 		"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project",
-		"/E/HIS/syt_copy",
 		"/C/Users/bxm09/Desktop/elelmeApp",
 		"/E/Web/响应式布局/licaibao-responsive",
 		"/D/GitHub/Hexo",
@@ -91,7 +92,7 @@
 		"/E/Front End/【实战项目】/HTML5 localStorage/HTML5 localStorage 便签"
 	],
 	"last_version": 3126,
-	"last_window_id": 29,
+	"last_window_id": 30,
 	"log_indexing": false,
 	"settings":
 	{
@@ -102,6 +103,34 @@
 			{
 				"selected_items":
 				[
+					[
+						"sc",
+						"score\t(data.json)"
+					],
+					[
+						"sel",
+						"seller"
+					],
+					[
+						"rat",
+						"ratings"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"r",
+						"r:a\tright:auto"
+					],
+					[
+						"div",
+						"div\t<div>"
+					],
 					[
 						"sty",
 						"style\tTag"
@@ -133,10 +162,6 @@
 					[
 						"gree",
 						"green"
-					],
-					[
-						"rgb",
-						"rgb()"
 					],
 					[
 						"blo",
@@ -589,30 +614,6 @@
 					[
 						"leng",
 						"length\tString"
-					],
-					[
-						"ab",
-						"absolute"
-					],
-					[
-						"rel",
-						"relative"
-					],
-					[
-						"sc",
-						"scope"
-					],
-					[
-						"cli",
-						"click\tEvent"
-					],
-					[
-						"ins",
-						"inputs\tinput - submit"
-					],
-					[
-						"met",
-						"method\tAttr"
 					]
 				]
 			},
@@ -647,8 +648,32 @@
 						"Package Control: Install Package"
 					],
 					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ssj",
+						"Set Syntax: JavaScript"
+					],
+					[
 						"vue",
 						"Snippet: vue1"
+					],
+					[
+						"ssvue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS3"
+					],
+					[
+						"sscs",
+						"Set Syntax: CSS3"
+					],
+					[
+						"rmove",
+						"Package Control: Remove Package"
 					],
 					[
 						"ssht",
@@ -679,10 +704,6 @@
 						"Set Syntax: PHP"
 					],
 					[
-						"sscss",
-						"Set Syntax: CSS"
-					],
-					[
 						"mdpre",
 						"Markdown Preview: Preview in Browser"
 					],
@@ -701,10 +722,6 @@
 					[
 						"terminal",
 						"Terminal: Open"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
 					],
 					[
 						"fetch",
@@ -846,29 +863,42 @@
 			},
 			"file_history":
 			[
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue1.sublime-snippet",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/food/food.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/ratings/ratings.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/shopcart/shopcart.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
 				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/star/star.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/C/Users/bxm09/Desktop/WebDemo/index.html",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/package.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/food/food.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratings/ratings.vue",
 				"/E/Web/适配文件/js/bxm.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/date.js",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue1.sublime-snippet",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsSelect/ratingsSelect.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/ratingselect/ratingselect.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/food/food.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/bxm.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/split/split.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/plus/plus.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/cartcontrol/cartcontrol.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/App.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/goods/goods.vue",
-				"/C/Users/bxm09/Desktop/WebDemo/index.html",
 				"/E/Java/workspace/HadoopCra/src/com/baizhi/pc/RunA.java",
 				"/E/Java/workspace/HadoopCra/src/com/baizhi/pc/Crawler.java",
 				"/E/Java/workspace/HadoopCra/src/com/baizhi/action/AllHFAction.java",
@@ -897,14 +927,9 @@
 				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
 				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/indexstyle.css",
 				"/E/Web/响应式布局/licaibao-responsive/src/index.html",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/shopcart/shopcart.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/shopcart/shopcart.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
 				"/C/Users/bxm09/Documents/Tencent Files/80583600/FileRecv/jquery.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
 				"/E/Web/适配文件/【HTML5 - Template】/src/index.html",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm01.sublime-snippet",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm02.sublime-snippet",
@@ -965,15 +990,7 @@
 				"/E/Web/适配文件/【HTML5 - Template】/src/404.html",
 				"/E/HIS/js类使用说明.txt",
 				"/E/HIS/syt_copy/js/aaa.js",
-				"/E/HIS/syt_copy/js/aab.js",
-				"/E/HIS/syt_copy/js/aac.js",
-				"/E/Web/适配文件/js/myTime.js",
-				"/E/Web/适配文件/js/myRegExp.js",
-				"/E/Web/适配文件/js/myBOM.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/stylus/iconfont.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/stylus/icon.styl",
-				"/C/Users/bxm09/Desktop/elelmeApp/src/App.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp/README.md"
+				"/E/HIS/syt_copy/js/aab.js"
 			],
 			"find":
 			{
@@ -1001,6 +1018,19 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"span",
+					"core",
+					"12",
+					"div",
+					"ratings",
+					"children",
+					"food",
+					"this.$http.get",
+					"48",
+					"'star-' + this.size + '-' + ",
+					"48",
+					"serviceScore",
+					"split",
 					"css",
 					"sass",
 					"0",
@@ -1115,20 +1145,7 @@
 					"20",
 					"48",
 					"20",
-					"48",
-					"on",
-					"star-48-",
-					"    background-image: url('img/star');",
-					"_",
-					"CLS_ON",
-					"CLSON",
-					"camel",
-					"CLS_HAlF",
-					"20",
-					"48",
-					"24",
-					"2",
-					"span"
+					"48"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1205,7 +1222,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 209.0,
+			"side_bar_width": 223.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1221,8 +1238,80 @@
 				"selected_items":
 				[
 					[
+						"get",
+						"get\t.get()"
+					],
+					[
+						"re",
+						"return\t(seller.vue)"
+					],
+					[
+						"loca",
+						"localStorage\t(store.js)"
+					],
+					[
+						"JSON",
+						"JSON.stringify"
+					],
+					[
+						"deccode",
+						"decodeURIComponent(${0:encodedURI})\tWindow"
+					],
+					[
+						"subs",
+						"substring(${0:indexA})\tString"
+					],
+					[
+						"forEac",
+						"forEach(${0:callback})\tArray"
+					],
+					[
+						"fl",
+						"fl\tfloat: ${1:left};"
+					],
+					[
+						"eve",
+						"event\t(seller.vue)"
+					],
+					[
+						"pic",
+						"picList"
+					],
+					[
+						"ref",
+						"refresh\t(seller.vue)"
+					],
+					[
 						"sc",
-						"score"
+						"scroll"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"jq",
+						"jQuery.ajax\tjQuery.ajax"
+					],
+					[
+						"sel",
+						"seller"
+					],
+					[
+						"rat",
+						"ratings"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"r",
+						"r:a\tright:auto"
 					],
 					[
 						"div",
@@ -1259,10 +1348,6 @@
 					[
 						"gree",
 						"green"
-					],
-					[
-						"rgb",
-						"rgb()"
 					],
 					[
 						"blo",
@@ -1375,10 +1460,6 @@
 					[
 						"Mathr",
 						"Math.round($0)\tMath"
-					],
-					[
-						"ref",
-						"refs"
 					],
 					[
 						"wid",
@@ -1513,20 +1594,12 @@
 						"req\trequire"
 					],
 					[
-						"mar",
-						"margin"
-					],
-					[
 						"bre",
 						"break-all"
 					],
 					[
 						"WORD",
 						"word-break"
-					],
-					[
-						"fl",
-						"flex"
 					],
 					[
 						"spli",
@@ -1675,85 +1748,11 @@
 					[
 						"em",
 						"empty"
-					],
-					[
-						"arr",
-						"array"
-					],
-					[
-						"con",
-						"controller"
-					],
-					[
-						"add",
-						"addcslashes"
-					],
-					[
-						"me",
-						"method"
-					],
-					[
-						"form",
-						"form\t<form>"
-					],
-					[
-						"time",
-						"time"
-					],
-					[
-						"html",
-						"html5\tSimple HTML5 Boilerplate"
-					],
-					[
-						"inps",
-						"inputs\tinput - submit"
-					],
-					[
-						"scrip",
-						"script\tTag"
-					],
-					[
-						"leng",
-						"length\tString"
-					],
-					[
-						"ab",
-						"absolute"
-					],
-					[
-						"rel",
-						"relative"
-					],
-					[
-						"cli",
-						"click\tEvent"
-					],
-					[
-						"ins",
-						"inputs\tinput - submit"
 					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
-					"settings":
-					{
-						"buffer_size": 2941,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
-					"settings":
-					{
-						"buffer_size": 46133,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "Packages/SASS Build/SASS.sublime-build",
 			"build_system_choices":
@@ -1779,24 +1778,40 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "rem",
+				"last_filter": "sscss",
 				"selected_items":
 				[
 					[
-						"rem",
-						"Package Control: Remove Package"
+						"sscss",
+						"Set Syntax: CSS3"
+					],
+					[
+						"vue",
+						"Snippet: vue1"
+					],
+					[
+						"ssvue",
+						"Set Syntax: Vue Component"
 					],
 					[
 						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"rmove",
+						"rem",
 						"Package Control: Remove Package"
 					],
 					[
-						"vue",
-						"Snippet: vue1"
+						"ssj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sscs",
+						"Set Syntax: CSS3"
+					],
+					[
+						"rmove",
+						"Package Control: Remove Package"
 					],
 					[
 						"ssht",
@@ -1825,10 +1840,6 @@
 					[
 						"ssp",
 						"Set Syntax: PHP"
-					],
-					[
-						"sscss",
-						"Set Syntax: CSS"
 					],
 					[
 						"mdpre",
@@ -1990,20 +2001,42 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/img",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/star"
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp"
 			],
 			"file_history":
 			[
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/star/star.vue",
+				"/E/Web/Framework/Vue.js/eleme/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/config/index.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell-master/prod.server.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/build/dev-server.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/prod.server.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/store.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/dist/static/css/app.57d7c9e2276f31fa42266a7c7b1d7001.css",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/seller/seller.vue",
+				"/E/Web/Project/HTML5 localStorage/HTML5 localStorage 便签/makenote.js",
+				"/E/Web/适配文件/js/store.js",
+				"/E/Web/Project/HTML5 localStorage/HTML5 localStorage 便签/myreset.css",
+				"/E/Web/适配文件/js/urlParse.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/util.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/static/font/iconfont.css",
+				"/E/Web/适配文件/css/myreset.css",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/static/font/demo.css",
+				"/E/HIS/syt_copy/js/aaa.js",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue1.sublime-snippet",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/food/food.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/ratings/ratings.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/shopcart/shopcart.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/star/star.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
@@ -2011,23 +2044,15 @@
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
 				"/C/Users/bxm09/Desktop/WebDemo/index.html",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
-				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/package.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/food/food.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratings/ratings.vue",
 				"/E/Web/适配文件/js/bxm.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/date.js",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue1.sublime-snippet",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsSelect/ratingsSelect.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/ratingselect/ratingselect.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/food/food.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/bxm.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/split/split.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/plus/plus.vue",
@@ -2062,12 +2087,8 @@
 				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
 				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/indexstyle.css",
 				"/E/Web/响应式布局/licaibao-responsive/src/index.html",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/shopcart/shopcart.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/shopcart/shopcart.vue",
 				"/C/Users/bxm09/Documents/Tencent Files/80583600/FileRecv/jquery.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
 				"/E/Web/适配文件/【HTML5 - Template】/src/index.html",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm01.sublime-snippet",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm02.sublime-snippet",
@@ -2109,27 +2130,9 @@
 				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/css/iconfont.css",
 				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/build/dev-server.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-resource/package.json",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/common/stylus/mixin.styl",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/E/Web/Project/WebDemo/css/style.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/header/header.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project/src/main.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/project/src/main.js",
-				"/C/Users/bxm09/Desktop/test/src/main.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project/src/router/index.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-router/package.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/router/index.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods.bue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/Hello.vue",
-				"/E/Web/适配文件/【HTML5 - Template】/src/humans.txt",
-				"/E/Web/适配文件/【HTML5 - Template】/src/404.html",
-				"/E/HIS/js类使用说明.txt",
-				"/E/HIS/syt_copy/js/aaa.js",
-				"/E/HIS/syt_copy/js/aab.js",
-				"/E/HIS/syt_copy/js/aac.js"
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings"
 			],
 			"find":
 			{
@@ -2157,6 +2160,24 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"localStorage",
+					"localstorage",
+					"24px",
+					"12px",
+					"description",
+					".vheader .supports ",
+					"type",
+					"padding: 0",
+					"padding: 0 10px",
+					"star",
+					"span",
+					"core",
+					"12",
+					"div",
+					"ratings",
+					"children",
+					"food",
+					"this.$http.get",
 					"48",
 					"'star-' + this.size + '-' + ",
 					"48",
@@ -2266,25 +2287,7 @@
 					".3",
 					"slide",
 					"div",
-					"detail",
-					"detail-supports",
-					"$index",
-					"supports",
-					"1",
-					"detail-main",
-					"48",
-					"20",
-					"48",
-					"20",
-					"48",
-					"on",
-					"star-48-",
-					"    background-image: url('img/star');",
-					"_",
-					"CLS_ON",
-					"CLSON",
-					"camel",
-					"CLS_HAlF"
+					"detail"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2312,255 +2315,16 @@
 				},
 				{
 					"path": "C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\sell"
+				},
+				{
+					"path": "E:\\HIS\\syt_copy"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2941,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2250,
-										2250
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												2293,
-												2294
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												2152,
-												2153
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
-									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2088.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 46133,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										73,
-										85
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												85,
-												86
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/double_quote.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												72,
-												73
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
-									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -2612,7 +2376,7 @@
 				"height": 168.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,1,-32000,-32000,-1,-1,935,284,92,1600",
+			"position": "0,2,3,-1,-1,-1,-1,917,639,94,1927",
 			"project": "",
 			"replace":
 			{
@@ -2654,7 +2418,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 223.0,
+			"side_bar_width": 203.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
