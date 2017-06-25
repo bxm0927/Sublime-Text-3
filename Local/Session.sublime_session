@@ -1,11 +1,22 @@
 {
 	"folder_history":
 	[
+		"/C/Users/bxm09/Desktop/WebDemo",
+		"/E/Web/Project-1/Framework/Vue/elelmeApp",
+		"/E/Web/Project-2/sass & compass_study",
+		"/E/Web/适配文件/HTML5-Template",
+		"/E/Web/Project/es6_study",
+		"/E/Web/前端代码规范/web-code-standards",
+		"/E/Web/Project/sass & compass_study",
+		"/E/Web/Project/compass_Introduction",
+		"/E/Web/Framework/Vue/elelmeApp",
+		"/C/Users/bxm09/Desktop/vue-sell-master",
+		"/D/GitHub/Hexo/bxm0927.github.io",
+		"/E/Web/blog/bxm0927.github.io",
+		"/E/Web/Framework/Vue/elelmeApp-ALL",
 		"/C/Users/bxm09/Desktop/新建文件夹",
 		"/E/HIS/syt_copy",
 		"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell",
-		"/D/GitHub/Hexo/bxm0927.github.io",
-		"/C/Users/bxm09/Desktop/WebDemo",
 		"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src",
 		"/E/Web/Project/同学会/同学会1.0",
 		"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp",
@@ -92,11 +103,11 @@
 		"/E/Front End/【实战项目】/HTML5 localStorage/HTML5 localStorage 便签"
 	],
 	"last_version": 3126,
-	"last_window_id": 30,
+	"last_window_id": 41,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 784.0,
+		"new_window_height": 704.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -104,8 +115,104 @@
 				"selected_items":
 				[
 					[
+						"col",
+						"colorful"
+					],
+					[
+						"docw",
+						"document.write(${0:markup})\tDocument"
+					],
+					[
+						"scri",
+						"script\tTag"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"info",
+						"insertBefore(${0:newElement}, referenceElement)\tNode"
+					],
+					[
+						"function",
+						"function(){\n\t$0\n})();\t(function(){\n\t$0\n})();"
+					],
+					[
+						"tran",
+						"transparent"
+					],
+					[
+						"cor",
+						"color"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"com",
+						"compass-normalize\t(config.rb)"
+					],
+					[
+						"b",
+						"bg+\tbackground+"
+					],
+					[
+						"get",
+						"get\t.get()"
+					],
+					[
+						"re",
+						"return\t(seller.vue)"
+					],
+					[
+						"loca",
+						"localStorage\t(store.js)"
+					],
+					[
+						"JSON",
+						"JSON.stringify"
+					],
+					[
+						"deccode",
+						"decodeURIComponent(${0:encodedURI})\tWindow"
+					],
+					[
+						"subs",
+						"substring(${0:indexA})\tString"
+					],
+					[
+						"forEac",
+						"forEach(${0:callback})\tArray"
+					],
+					[
+						"fl",
+						"fl\tfloat: ${1:left};"
+					],
+					[
+						"eve",
+						"event\t(seller.vue)"
+					],
+					[
+						"pic",
+						"picList"
+					],
+					[
+						"ref",
+						"refresh\t(seller.vue)"
+					],
+					[
 						"sc",
-						"score\t(data.json)"
+						"scroll"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"jq",
+						"jQuery.ajax\tjQuery.ajax"
 					],
 					[
 						"sel",
@@ -138,10 +245,6 @@
 					[
 						"Nu",
 						"Number.MAX_VALUE\tNumber"
-					],
-					[
-						"com",
-						"components"
 					],
 					[
 						"common",
@@ -276,14 +379,6 @@
 						"Math.round($0)\tMath"
 					],
 					[
-						"ref",
-						"refs"
-					],
-					[
-						"wid",
-						"width\tAttr"
-					],
-					[
 						"foo",
 						"foods\t(data.json)"
 					],
@@ -306,10 +401,6 @@
 					[
 						"ti",
 						"timg.jpg\tw:1024 h:745"
-					],
-					[
-						"tran",
-						"transition"
 					],
 					[
 						"blur",
@@ -396,10 +487,6 @@
 						"document.write(${0:markup})\tDocument"
 					],
 					[
-						"col",
-						"color"
-					],
-					[
 						"ex",
 						"express"
 					],
@@ -412,20 +499,12 @@
 						"req\trequire"
 					],
 					[
-						"mar",
-						"margin"
-					],
-					[
 						"bre",
 						"break-all"
 					],
 					[
 						"WORD",
 						"word-break"
-					],
-					[
-						"fl",
-						"flex"
 					],
 					[
 						"spli",
@@ -546,74 +625,6 @@
 					[
 						"title",
 						"title\tAttr"
-					],
-					[
-						"2",
-						"logo@2x.png\tw:300 h:70"
-					],
-					[
-						"ready",
-						"ready\t$(document).ready"
-					],
-					[
-						"fsi",
-						"font-size"
-					],
-					[
-						"ov-y",
-						"ovy-s\toverflow-y: scroll;"
-					],
-					[
-						"or",
-						"orange"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"em",
-						"empty"
-					],
-					[
-						"arr",
-						"array"
-					],
-					[
-						"con",
-						"controller"
-					],
-					[
-						"add",
-						"addcslashes"
-					],
-					[
-						"me",
-						"method"
-					],
-					[
-						"form",
-						"form\t<form>"
-					],
-					[
-						"time",
-						"time"
-					],
-					[
-						"html",
-						"html5\tSimple HTML5 Boilerplate"
-					],
-					[
-						"inps",
-						"inputs\tinput - submit"
-					],
-					[
-						"scrip",
-						"script\tTag"
-					],
-					[
-						"leng",
-						"length\tString"
 					]
 				]
 			},
@@ -652,8 +663,72 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"ssj",
+						"REM",
+						"Package Control: Remove Package"
+					],
+					[
+						"TableEditor",
+						"Table Editor: Disable for current syntax"
+					],
+					[
+						"OmniMa",
+						"Preferences: OmniMarkupPreviewer Settings – Default"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"MDPRE",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssjs",
 						"Set Syntax: JavaScript"
+					],
+					[
+						"mdpre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"ss",
+						"Set Syntax: Sass"
+					],
+					[
+						"sssc",
+						"Set Syntax: SCSS"
+					],
+					[
+						"sssa",
+						"Set Syntax: Sass"
+					],
+					[
+						"ssscss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"sss",
+						"Set Syntax: Sass"
+					],
+					[
+						"ssc",
+						"Set Syntax: CSS3"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS3"
 					],
 					[
 						"vue",
@@ -664,8 +739,8 @@
 						"Set Syntax: Vue Component"
 					],
 					[
-						"sscss",
-						"Set Syntax: CSS3"
+						"ssj",
+						"Set Syntax: JavaScript"
 					],
 					[
 						"sscs",
@@ -680,18 +755,6 @@
 						"Set Syntax: HTML"
 					],
 					[
-						"ssjs",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"sss",
-						"Set Syntax: Sass"
-					],
-					[
-						"REM",
-						"Package Control: Remove Package"
-					],
-					[
 						"vue1",
 						"Snippet: vue1"
 					],
@@ -702,14 +765,6 @@
 					[
 						"ssp",
 						"Set Syntax: PHP"
-					],
-					[
-						"mdpre",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ssh",
-						"Set Syntax: HTML"
 					],
 					[
 						"gitbas",
@@ -863,17 +918,98 @@
 			},
 			"file_history":
 			[
+				"/E/Web/前端代码规范/web-code-standards/README.md",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/C/Users/bxm09/Desktop/WebDemo/index.html",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/bxm09/Desktop/WebDemo/demo.vue",
+				"/C/Users/bxm09/Desktop/WebDemo/js/myTime.js",
+				"/E/Web/前端代码规范/web-code-standards/docs/js.md",
+				"/E/Web/前端代码规范/web-code-standards/docs/css.md",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+				"/E/Web/前端代码规范/web-code-standards/docs/common.md",
+				"/E/Web/前端代码规范/web-code-standards/docs/html.md",
+				"/E/Web/建站/index.php",
+				"/E/Web/Project/games-鼠标移动炫彩小球/Canvas_鼠标移动炫彩小球.html",
+				"/E/Web/Framework/Vue/elelmeApp/README.md",
+				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/es6_study.md",
+				"/E/Web/Project/es6_study/index.html",
+				"/E/Web/Project/es6_study/test.js",
+				"/E/Web/Project/es6_study/.jshintrc",
+				"/E/Web/Framework/Vue/elelmeApp/src/App.vue",
+				"/E/Web/Framework/Vue/elelmeApp/build/utils.js",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/README.md",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/package-metadata.json",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/messages.json",
+				"/C/Users/bxm09/Desktop/WebDemo/css/demo.css",
+				"/E/Web/Project/sass & compass_study/config.rb",
+				"/E/Web/Project/sass & compass_study/sass/_mixin.scss",
+				"/E/Web/Project/sass & compass_study/stylesheets/screen.css",
+				"/E/Web/Project/sass & compass_study/sass/screen.scss",
+				"/C/Users/bxm09/Desktop/Webpack.md",
+				"/E/Web/前端代码规范/web-code-standards/cssStandards.md",
+				"/E/Web/前端代码规范/web-code-standards/web-code-standards/README.md",
+				"/E/Web/Framework/Vue/elelmeApp/src/components/ratings/ratings.vue",
+				"/E/Web/适配文件/css/normalize.css v7.0.0.css",
+				"/E/Web/适配文件/css/normalize.css",
+				"/D/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-normalize-1.5/templates/project/screen.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/_variables.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/_mixin.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/stylesheets/screen.css",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/screen.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/_util.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/screen.sass",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/LESS/snippets/background.tmSnippet",
+				"/C/Users/bxm09/Desktop/WebDemo/compass/myproject/sass/screen.scss",
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
+				"/E/Web/Framework/Vue/elelmeApp/src/main.js",
+				"/E/Web/Framework/Vue/elelmeApp/build/dev-server.js",
+				"/E/Web/Framework/Vue/elelmeApp/prod.server.js",
+				"/E/Web/Framework/Vue/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
+				"/E/Web/Framework/Vue/elelmeApp/src/components/food/food.vue",
+				"/E/Web/Framework/Vue/elelmeApp/src/components/goods/goods.vue",
+				"/D/GitHub/Hexo/bxm0927.github.io/source/hand-peace-o/index.md",
+				"/E/Web/blog/bxm0927.github.io/source/hand-peace-o/index.md",
+				"/D/GitHub/Hexo/bxm0927.github.io/source/CNAME",
+				"/E/Web/blog/bxm0927.github.io/public/baidusitemap.xml",
+				"/E/Web/blog/bxm0927.github.io/public/CNAME",
+				"/E/Web/Framework/Vue/elelmeApp/dist/index.html",
+				"/E/Web/Framework/Vue/elelmeApp/index.html",
+				"/E/Web/Framework/Vue/elelmeApp-ALL/elelmeApp/README.md",
+				"/E/Web/Framework/Vue/elelmeApp-ALL/elelmeApp/.gitignore",
+				"/E/Web/Framework/Vue.js/eleme/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/config/index.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell-master/prod.server.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/build/dev-server.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/prod.server.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/store.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/dist/static/css/app.57d7c9e2276f31fa42266a7c7b1d7001.css",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/seller/seller.vue",
+				"/E/Web/Project/HTML5 localStorage/HTML5 localStorage 便签/makenote.js",
+				"/E/Web/适配文件/js/store.js",
+				"/E/Web/Project/HTML5 localStorage/HTML5 localStorage 便签/myreset.css",
+				"/E/Web/适配文件/js/urlParse.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/util.js",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/static/font/iconfont.css",
+				"/E/Web/适配文件/css/myreset.css",
+				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/static/font/demo.css",
+				"/E/HIS/syt_copy/js/aaa.js",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue1.sublime-snippet",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods/goods.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/food/food.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/main.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/data.json",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/ratings/ratings.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/shopcart/shopcart.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
-				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/star/star.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
@@ -881,12 +1017,10 @@
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
-				"/C/Users/bxm09/Desktop/WebDemo/index.html",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/package.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/App.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/ratings/ratings.vue",
 				"/E/Web/适配文件/js/bxm.js",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/js/date.js",
@@ -910,87 +1044,8 @@
 				"/C/Users/bxm09/Desktop/Hello.class",
 				"/D/GitHub/Hexo/bxm0927.github.io/_config.yml",
 				"/D/GitHub/Hexo/bxm0927.github.io/package.json",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
 				"/C/Users/bxm09/Desktop/WebDemo/css/demo1.css",
-				"/C/Users/bxm09/Desktop/WebDemo/sass/demo1.sass",
-				"/C/Users/bxm09/Desktop/WebDemo/css/demo.css",
-				"/C/Users/bxm09/Desktop/WebDemo/public/.css",
-				"/C/Users/bxm09/Desktop/WebDemo/public/stylesheets",
-				"/C/Users/bxm09/Desktop/WebDemo/demo.scss",
-				"/C/Users/bxm09/Desktop/WebDemo/demo.css",
-				"/C/Users/bxm09/Desktop/WebDemo/demo1.css",
-				"/C/Users/bxm09/Desktop/WebDemo/demo1.sass",
-				"/E/石软资料/【课程】/项目管理/README.md",
-				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/js/index.js",
-				"/E/Web/Project/同学会/同学会1.0/index.html",
-				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/index.css",
-				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
-				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/indexstyle.css",
-				"/E/Web/响应式布局/licaibao-responsive/src/index.html",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/shopcart/shopcart.vue",
-				"/C/Users/bxm09/Documents/Tencent Files/80583600/FileRecv/jquery.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/seller/seller.vue",
-				"/E/Web/适配文件/【HTML5 - Template】/src/index.html",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm01.sublime-snippet",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm02.sublime-snippet",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/buildBlog.md",
-				"/E/Web/适配文件/【HTML5 - Template】/.editorconfig",
-				"/E/Web/适配文件/【HTML5 - Template】/.gitignore",
-				"/E/Web/适配文件/【HTML5 - Template】/README.md",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/index.html",
-				"/E/Web/wamp64/www/bank/mysql.php",
-				"/E/Web/wamp64/www/bank/index.php",
-				"/E/Web/wamp64/www/bank/doMain.php",
-				"/E/Web/wamp64/www/bank/main.php",
-				"/E/Web/wamp64/www/bank/doLogin.php",
-				"/E/Web/wamp64/www/bank/mian.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/doLogin.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/lib/common.func.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/core/admin.inc.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/lib/mysql.func.php",
-				"/E/Web/wamp64/www/bank/css/index.css",
-				"/E/Web/wamp64/www/bank/include.php",
-				"/E/Web/wamp64/www/bank/doAction.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/doAction.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/login.php",
-				"/E/Web/浏览器兼容性/键盘事件 keyCode/demo.html",
-				"/E/Web/浏览器兼容性/IE与非IE事件处理程序（能力检测）/eventshiv.js",
-				"/E/Web/浏览器兼容性/完美解决Placeholder/js/JPlaceholder.js",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/.gitattributes",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
-				"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/index.css",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/header/header.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell-master/src/common/scss/_mixins.scss",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/static/css/myreset.css",
-				"/C/Users/bxm09/Desktop/font_92lveyg79mz8semi/demo.css",
-				"/C/Users/bxm09/Desktop/font_92lveyg79mz8semi/iconfont.css",
-				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/css/iconfont.css",
-				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/build/dev-server.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-resource/package.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/common/stylus/mixin.styl",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/E/Web/Project/WebDemo/css/style.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/header/header.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project/src/main.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/project/src/main.js",
-				"/C/Users/bxm09/Desktop/test/src/main.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/my-project/src/router/index.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-router/package.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/router/index.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/goods.bue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/Hello.vue",
-				"/E/Web/适配文件/【HTML5 - Template】/src/humans.txt",
-				"/E/Web/适配文件/【HTML5 - Template】/src/404.html",
-				"/E/HIS/js类使用说明.txt",
-				"/E/HIS/syt_copy/js/aaa.js",
-				"/E/HIS/syt_copy/js/aab.js"
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo1.sass"
 			],
 			"find":
 			{
@@ -1001,6 +1056,8 @@
 				"height": 164.0,
 				"where_history":
 				[
+					"E:\\Web\\Framework\\Vue\\elelmeApp\\src",
+					"E:\\Web\\Framework\\Vue\\elelmeApp",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp",
 					"E:\\Web\\wamp64\\www\\imooc_shopImooc\\imooc_shopImooc",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp",
@@ -1018,6 +1075,37 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"pre",
+					"Class",
+					"/bxm0927/web-code-standards/",
+					"assign",
+					"var",
+					", ",
+					"ratingsBox",
+					"ratings",
+					"create",
+					"ratings",
+					"var",
+					"ratings",
+					"static",
+					"?id=123#/goods",
+					"https://bxm0927.github.io/elelmeApp/?id=123#/goods",
+					"ath",
+					"static",
+					"https://bxm0927.github.io/elelmeApp/?id=123#/goods",
+					"/static",
+					"ratings",
+					"/static",
+					"localStorage",
+					"localstorage",
+					"24px",
+					"12px",
+					"description",
+					".vheader .supports ",
+					"type",
+					"padding: 0",
+					"padding: 0 10px",
+					"star",
 					"span",
 					"core",
 					"12",
@@ -1114,38 +1202,7 @@
 					"${1:hello}",
 					".supports-",
 					".detail-",
-					".fade-",
-					".supports",
-					".supports-",
-					".content-",
-					".star-",
-					".star",
-					".foods",
-					"menu-item",
-					"es6",
-					"(item,index)",
-					"(item,",
-					"1",
-					"menu-wrapper",
-					"supports",
-					" !== null",
-					"login()",
-					"span",
-					"4",
-					".3",
-					"slide",
-					"div",
-					"detail",
-					"detail-supports",
-					"$index",
-					"supports",
-					"1",
-					"detail-main",
-					"48",
-					"20",
-					"48",
-					"20",
-					"48"
+					".fade-"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1162,7 +1219,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 72.0
 			},
 			"input":
 			{
@@ -1222,13 +1279,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 223.0,
+			"side_bar_width": 203.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1300.0
+		"new_window_width": 1210.0
 	},
 	"windows":
 	[
@@ -1237,6 +1294,50 @@
 			{
 				"selected_items":
 				[
+					[
+						"col",
+						"colorful"
+					],
+					[
+						"docw",
+						"document.write(${0:markup})\tDocument"
+					],
+					[
+						"scri",
+						"script\tTag"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"info",
+						"insertBefore(${0:newElement}, referenceElement)\tNode"
+					],
+					[
+						"function",
+						"function(){\n\t$0\n})();\t(function(){\n\t$0\n})();"
+					],
+					[
+						"tran",
+						"transparent"
+					],
+					[
+						"cor",
+						"color"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"com",
+						"compass-normalize\t(config.rb)"
+					],
+					[
+						"b",
+						"bg+\tbackground+"
+					],
 					[
 						"get",
 						"get\t.get()"
@@ -1324,10 +1425,6 @@
 					[
 						"Nu",
 						"Number.MAX_VALUE\tNumber"
-					],
-					[
-						"com",
-						"components"
 					],
 					[
 						"common",
@@ -1462,10 +1559,6 @@
 						"Math.round($0)\tMath"
 					],
 					[
-						"wid",
-						"width\tAttr"
-					],
-					[
 						"foo",
 						"foods\t(data.json)"
 					],
@@ -1488,10 +1581,6 @@
 					[
 						"ti",
 						"timg.jpg\tw:1024 h:745"
-					],
-					[
-						"tran",
-						"transition"
 					],
 					[
 						"blur",
@@ -1576,10 +1665,6 @@
 					[
 						"dow",
 						"document.write(${0:markup})\tDocument"
-					],
-					[
-						"col",
-						"color"
 					],
 					[
 						"ex",
@@ -1720,34 +1805,6 @@
 					[
 						"title",
 						"title\tAttr"
-					],
-					[
-						"2",
-						"logo@2x.png\tw:300 h:70"
-					],
-					[
-						"ready",
-						"ready\t$(document).ready"
-					],
-					[
-						"fsi",
-						"font-size"
-					],
-					[
-						"ov-y",
-						"ovy-s\toverflow-y: scroll;"
-					],
-					[
-						"or",
-						"orange"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"em",
-						"empty"
 					]
 				]
 			},
@@ -1778,9 +1835,85 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "sscss",
+				"last_filter": "ssh",
 				"selected_items":
 				[
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"Fetch",
+						"Fetch: Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"REM",
+						"Package Control: Remove Package"
+					],
+					[
+						"TableEditor",
+						"Table Editor: Disable for current syntax"
+					],
+					[
+						"OmniMa",
+						"Preferences: OmniMarkupPreviewer Settings – Default"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"MDPRE",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mdpre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssv",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"ss",
+						"Set Syntax: Sass"
+					],
+					[
+						"sssc",
+						"Set Syntax: SCSS"
+					],
+					[
+						"sssa",
+						"Set Syntax: Sass"
+					],
+					[
+						"ssscss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"sss",
+						"Set Syntax: Sass"
+					],
+					[
+						"ssc",
+						"Set Syntax: CSS3"
+					],
 					[
 						"sscss",
 						"Set Syntax: CSS3"
@@ -1792,14 +1925,6 @@
 					[
 						"ssvue",
 						"Set Syntax: Vue Component"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
 					],
 					[
 						"ssj",
@@ -1818,18 +1943,6 @@
 						"Set Syntax: HTML"
 					],
 					[
-						"ssjs",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"sss",
-						"Set Syntax: Sass"
-					],
-					[
-						"REM",
-						"Package Control: Remove Package"
-					],
-					[
 						"vue1",
 						"Snippet: vue1"
 					],
@@ -1840,14 +1953,6 @@
 					[
 						"ssp",
 						"Set Syntax: PHP"
-					],
-					[
-						"mdpre",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ssh",
-						"Set Syntax: HTML"
 					],
 					[
 						"gitbas",
@@ -2001,10 +2106,82 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp"
+				"/E/Web/前端代码规范/web-code-standards",
+				"/E/Web/前端代码规范/web-code-standards/docs"
 			],
 			"file_history":
 			[
+				"/E/Web/前端代码规范/web-code-standards/README.md",
+				"/E/Web/前端代码规范/web-code-standards/docs/common.md",
+				"/E/Web/前端代码规范/web-code-standards/docs/html.md",
+				"/C/Users/bxm09/Desktop/selectivizr-1.0.2/selectivizr.js",
+				"/C/Users/bxm09/Desktop/css3-mediaqueries.js",
+				"/C/Users/bxm09/AppData/Local/Temp/360zip$Temp/360$1/html5.js",
+				"/C/Users/bxm09/AppData/Local/Temp/360zip$Temp/360$0/html5.js",
+				"/C/Users/bxm09/Desktop/WebDemo/index.html",
+				"/E/Web/适配文件/js/.jshintrc",
+				"/C/Users/bxm09/Desktop/WebDemo/js/test.min.js",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+				"/C/Users/bxm09/Desktop/WebDemo/js/myTime.js",
+				"/C/Users/bxm09/Desktop/WebDemo/js/test.js",
+				"/E/Web/前端代码规范/web-code-standards/docs/css.md",
+				"/E/Web/前端代码规范/web-code-standards/docs/js.md",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/bxm09/Desktop/WebDemo/demo.vue",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+				"/E/Web/建站/index.php",
+				"/E/Web/Project/games-鼠标移动炫彩小球/Canvas_鼠标移动炫彩小球.html",
+				"/E/Web/Framework/Vue/elelmeApp/README.md",
+				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/es6_study.md",
+				"/E/Web/Project/es6_study/index.html",
+				"/E/Web/Project/es6_study/test.js",
+				"/E/Web/Project/es6_study/.jshintrc",
+				"/E/Web/Framework/Vue/elelmeApp/src/App.vue",
+				"/E/Web/Framework/Vue/elelmeApp/build/utils.js",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/README.md",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/package-metadata.json",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/messages.json",
+				"/C/Users/bxm09/Desktop/WebDemo/css/demo.css",
+				"/E/Web/Project/sass & compass_study/config.rb",
+				"/E/Web/Project/sass & compass_study/sass/_mixin.scss",
+				"/E/Web/Project/sass & compass_study/stylesheets/screen.css",
+				"/E/Web/Project/sass & compass_study/sass/screen.scss",
+				"/C/Users/bxm09/Desktop/Webpack.md",
+				"/E/Web/前端代码规范/web-code-standards/cssStandards.md",
+				"/E/Web/前端代码规范/web-code-standards/web-code-standards/README.md",
+				"/E/Web/Framework/Vue/elelmeApp/src/components/ratings/ratings.vue",
+				"/E/Web/适配文件/css/normalize.css v7.0.0.css",
+				"/E/Web/适配文件/css/normalize.css",
+				"/D/Ruby24-x64/lib/ruby/gems/2.4.0/gems/compass-normalize-1.5/templates/project/screen.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/_variables.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/_mixin.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/stylesheets/screen.css",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/screen.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/_util.scss",
+				"/E/Web/Project/compass_Introduction/compass_Introduction/sass/screen.sass",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
+				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/LESS/snippets/background.tmSnippet",
+				"/C/Users/bxm09/Desktop/WebDemo/compass/myproject/sass/screen.scss",
+				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
+				"/E/Web/Framework/Vue/elelmeApp/src/main.js",
+				"/E/Web/Framework/Vue/elelmeApp/build/dev-server.js",
+				"/E/Web/Framework/Vue/elelmeApp/prod.server.js",
+				"/E/Web/Framework/Vue/elelmeApp/src/components/ratingsBox/ratingsBox.vue",
+				"/E/Web/Framework/Vue/elelmeApp/src/components/food/food.vue",
+				"/E/Web/Framework/Vue/elelmeApp/src/components/goods/goods.vue",
+				"/D/GitHub/Hexo/bxm0927.github.io/source/hand-peace-o/index.md",
+				"/E/Web/blog/bxm0927.github.io/source/hand-peace-o/index.md",
+				"/D/GitHub/Hexo/bxm0927.github.io/source/CNAME",
+				"/E/Web/blog/bxm0927.github.io/public/baidusitemap.xml",
+				"/E/Web/blog/bxm0927.github.io/public/CNAME",
+				"/E/Web/Framework/Vue/elelmeApp/dist/index.html",
+				"/E/Web/Framework/Vue/elelmeApp/index.html",
+				"/E/Web/Framework/Vue/elelmeApp-ALL/elelmeApp/README.md",
+				"/E/Web/Framework/Vue/elelmeApp-ALL/elelmeApp/.gitignore",
 				"/E/Web/Framework/Vue.js/eleme/README.md",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/README.md",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/config/index.js",
@@ -2034,7 +2211,6 @@
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/ratings/ratings.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/shopcart/shopcart.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/vheader/vheader.vue",
-				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.scss",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/star/star.vue",
 				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/components/star/star.vue",
@@ -2042,7 +2218,6 @@
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
-				"/C/Users/bxm09/Desktop/WebDemo/index.html",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
@@ -2063,76 +2238,7 @@
 				"/E/Java/workspace/HadoopCra/src/com/baizhi/pc/Crawler.java",
 				"/E/Java/workspace/HadoopCra/src/com/baizhi/action/AllHFAction.java",
 				"/C/Users/bxm09/Desktop/WebDemo/sass/demo.css",
-				"/D/Java/apache-tomcat-9.0.0.M21/conf/server.xml",
-				"/D/Java/apache-tomcat-9.0.0.M21/webapps/HelloWorld/WEB-INF/web.xml",
-				"/D/Java/apache-tomcat-9.0.0.M21/webapps/HelloWorld/index.jsp",
-				"/C/Users/bxm09/Desktop/Hello.java",
-				"/C/Users/bxm09/Desktop/Hello.class",
-				"/D/GitHub/Hexo/bxm0927.github.io/_config.yml",
-				"/D/GitHub/Hexo/bxm0927.github.io/package.json",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
-				"/C/Users/bxm09/Desktop/WebDemo/css/demo1.css",
-				"/C/Users/bxm09/Desktop/WebDemo/sass/demo1.sass",
-				"/C/Users/bxm09/Desktop/WebDemo/css/demo.css",
-				"/C/Users/bxm09/Desktop/WebDemo/public/.css",
-				"/C/Users/bxm09/Desktop/WebDemo/public/stylesheets",
-				"/C/Users/bxm09/Desktop/WebDemo/demo.scss",
-				"/C/Users/bxm09/Desktop/WebDemo/demo.css",
-				"/C/Users/bxm09/Desktop/WebDemo/demo1.css",
-				"/C/Users/bxm09/Desktop/WebDemo/demo1.sass",
-				"/E/石软资料/【课程】/项目管理/README.md",
-				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/js/index.js",
-				"/E/Web/Project/同学会/同学会1.0/index.html",
-				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/index.css",
-				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
-				"/E/石软资料/【课程】/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/indexstyle.css",
-				"/E/Web/响应式布局/licaibao-responsive/src/index.html",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/shopcart/shopcart.vue",
-				"/C/Users/bxm09/Documents/Tencent Files/80583600/FileRecv/jquery.js",
-				"/E/Web/适配文件/【HTML5 - Template】/src/index.html",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm01.sublime-snippet",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/bxm02.sublime-snippet",
-				"/D/GitHub/Hexo/bxm0927.github.io/source/_posts/buildBlog.md",
-				"/E/Web/适配文件/【HTML5 - Template】/.editorconfig",
-				"/E/Web/适配文件/【HTML5 - Template】/.gitignore",
-				"/E/Web/适配文件/【HTML5 - Template】/README.md",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/index.html",
-				"/E/Web/wamp64/www/bank/mysql.php",
-				"/E/Web/wamp64/www/bank/index.php",
-				"/E/Web/wamp64/www/bank/doMain.php",
-				"/E/Web/wamp64/www/bank/main.php",
-				"/E/Web/wamp64/www/bank/doLogin.php",
-				"/E/Web/wamp64/www/bank/mian.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/doLogin.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/lib/common.func.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/core/admin.inc.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/admin/lib/mysql.func.php",
-				"/E/Web/wamp64/www/bank/css/index.css",
-				"/E/Web/wamp64/www/bank/include.php",
-				"/E/Web/wamp64/www/bank/doAction.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/doAction.php",
-				"/E/Web/wamp64/www/imooc_shopImooc/imooc_shopImooc/login.php",
-				"/E/Web/浏览器兼容性/键盘事件 keyCode/demo.html",
-				"/E/Web/浏览器兼容性/IE与非IE事件处理程序（能力检测）/eventshiv.js",
-				"/E/Web/浏览器兼容性/完美解决Placeholder/js/JPlaceholder.js",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/.gitattributes",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/index.html",
-				"/C/Users/bxm09/Desktop/《计算机网络课程设计》- 题目7：div+css网页页面效果制作/src/css/index.css",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/components/header/header.vue",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell-master/src/common/scss/_mixins.scss",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/static/css/myreset.css",
-				"/C/Users/bxm09/Desktop/font_92lveyg79mz8semi/demo.css",
-				"/C/Users/bxm09/Desktop/font_92lveyg79mz8semi/iconfont.css",
-				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.js",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/src/common/css/iconfont.css",
-				"/C/Users/bxm09/Desktop/font_ccqiejaq0p1zto6r/iconfont.css",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/elelmeApp/node_modules/vue-resource/package.json",
-				"/C/Users/bxm09/Desktop/elelmeApp-ALL/sell/src/common/stylus/mixin.styl",
-				"/C/Users/bxm09/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings"
+				"/D/Java/apache-tomcat-9.0.0.M21/conf/server.xml"
 			],
 			"find":
 			{
@@ -2143,6 +2249,8 @@
 				"height": 164.0,
 				"where_history":
 				[
+					"E:\\Web\\Framework\\Vue\\elelmeApp\\src",
+					"E:\\Web\\Framework\\Vue\\elelmeApp",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp",
 					"E:\\Web\\wamp64\\www\\imooc_shopImooc\\imooc_shopImooc",
 					"C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp",
@@ -2160,6 +2268,27 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"pre",
+					"Class",
+					"/bxm0927/web-code-standards/",
+					"assign",
+					"var",
+					", ",
+					"ratingsBox",
+					"ratings",
+					"create",
+					"ratings",
+					"var",
+					"ratings",
+					"static",
+					"?id=123#/goods",
+					"https://bxm0927.github.io/elelmeApp/?id=123#/goods",
+					"ath",
+					"static",
+					"https://bxm0927.github.io/elelmeApp/?id=123#/goods",
+					"/static",
+					"ratings",
+					"/static",
 					"localStorage",
 					"localstorage",
 					"24px",
@@ -2266,28 +2395,7 @@
 					"${1:hello}",
 					".supports-",
 					".detail-",
-					".fade-",
-					".supports",
-					".supports-",
-					".content-",
-					".star-",
-					".star",
-					".foods",
-					"menu-item",
-					"es6",
-					"(item,index)",
-					"(item,",
-					"1",
-					"menu-wrapper",
-					"supports",
-					" !== null",
-					"login()",
-					"span",
-					"4",
-					".3",
-					"slide",
-					"div",
-					"detail"
+					".fade-"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2305,19 +2413,10 @@
 			"folders":
 			[
 				{
-					"path": "D:\\GitHub\\Hexo\\bxm0927.github.io"
-				},
-				{
-					"path": "C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\elelmeApp"
-				},
-				{
 					"path": "C:\\Users\\bxm09\\Desktop\\WebDemo"
 				},
 				{
-					"path": "C:\\Users\\bxm09\\Desktop\\elelmeApp-ALL\\sell"
-				},
-				{
-					"path": "E:\\HIS\\syt_copy"
+					"path": "E:\\Web\\前端代码规范\\web-code-standards"
 				}
 			],
 			"groups":
@@ -2330,7 +2429,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 72.0
 			},
 			"input":
 			{
@@ -2376,7 +2475,7 @@
 				"height": 168.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,917,639,94,1927",
+			"position": "0,2,3,-32000,-32000,-1,-1,800,485,37,1711",
 			"project": "",
 			"replace":
 			{
